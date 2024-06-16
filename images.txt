@@ -6,3 +6,13 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 6053537/portainer-ce
 nyanmisaka/jellyfin
+jxxghp/moviepilot
+haroldli/xiaoya-tvbox
+xiaoyaliu/alist
+xhofe/alist
+deluan/navidrome
+jonnyan404/verysync
+easychen/cookiecloud
+p3terx/aria2-pro
+80x86/filebrowse
+bytemark/webdav
