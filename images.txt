@@ -7,7 +7,6 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 jxxghp/moviepilot
 haroldli/xiaoya-tvbox
-xiaoyaliu/alist
 deluan/navidrome
 jonnyan404/verysync
 easychen/cookiecloud
@@ -16,4 +15,4 @@ p3terx/aria2-pro
 bytemark/webdav
 library/alpine
 6053537/portainer-ce
-library/alpine
+xiaoyaliu/alist
