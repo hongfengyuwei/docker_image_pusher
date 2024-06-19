@@ -15,6 +15,6 @@ easychen/cookiecloud
 p3terx/aria2-pro
 80x86/filebrowse
 bytemark/webdav
-alpine
+library/alpine
 6053537/portainer-ce
 xhofe/alist:latest
