@@ -16,3 +16,4 @@ bytemark/webdav
 library/alpine
 6053537/portainer-ce
 xiaoyaliu/alist
+jellyfin/jellyfin
