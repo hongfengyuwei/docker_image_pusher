@@ -15,6 +15,6 @@ p3terx/aria2-pro
 bytemark/webdav
 library/alpine
 6053537/portainer-ce
-xiaoyaliu/alist
 advplyr/audiobookshelf
 oldiy/dosgame-web-docker
+xiaoyaliu/alist
