@@ -17,3 +17,4 @@ library/alpine
 6053537/portainer-ce
 xiaoyaliu/alist
 advplyr/audiobookshelf
+oldiy/dosgame-web-docker
