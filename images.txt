@@ -17,3 +17,5 @@ library/alpine
 advplyr/audiobookshelf
 oldiy/dosgame-web-docker
 xiaoyaliu/alist
+dezhao/immich_cn
+xhofe/alist-aria2
