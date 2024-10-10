@@ -17,3 +17,4 @@ library/alpine
 advplyr/audiobookshelf
 oldiy/dosgame-web-docker
 xiaoyaliu/alist
+greatpower/navigator
