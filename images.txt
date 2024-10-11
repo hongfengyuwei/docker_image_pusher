@@ -18,3 +18,4 @@ advplyr/audiobookshelf
 oldiy/dosgame-web-docker
 xiaoyaliu/alist
 greatpower/navigator
+liwei2633/gopeed
