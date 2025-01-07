@@ -20,3 +20,4 @@ xiaoyaliu/alist
 greatpower/navigator
 liwei2633/gopeed
 chisbread/transmission
+jxxghp/moviepilot-v2
