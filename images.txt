@@ -22,3 +22,4 @@ liwei2633/gopeed
 chisbread/transmission
 jxxghp/moviepilot-v2
 lyswhut/any-listen-web-server
+guovern/iptv-api:latest
