@@ -4,7 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-Nyanmisaka/jellyfin
 jxxghp/moviepilot
 haroldli/xiaoya-tvbox
 deluan/navidrome
@@ -24,3 +23,4 @@ jxxghp/moviepilot-v2
 lyswhut/any-listen-web-server
 guovern/iptv-api:latest
 iyuucn/iyuuplus-dev
+Nyanmisaka/jellyfin
