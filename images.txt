@@ -24,3 +24,4 @@ lyswhut/any-listen-web-server
 guovern/iptv-api:latest
 iyuucn/iyuuplus-dev
 nyanmisaka/jellyfin
+jellyfin/jellyfin
