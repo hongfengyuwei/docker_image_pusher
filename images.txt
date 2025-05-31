@@ -25,3 +25,5 @@ guovern/iptv-api:latest
 iyuucn/iyuuplus-dev
 nyanmisaka/jellyfin
 jellyfin/jellyfin
+xiaoyaliu/alist
+jellyfin/jellyfin:2025052605
