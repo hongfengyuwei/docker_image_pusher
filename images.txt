@@ -27,3 +27,4 @@ nyanmisaka/jellyfin
 jellyfin/jellyfin
 xiaoyaliu/alist
 jellyfin/jellyfin:2025052605
+herberthe0229/iptv-sources
