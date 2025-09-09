@@ -29,3 +29,4 @@ xiaoyaliu/alist
 jellyfin/jellyfin:2025081805
 herberthe0229/iptv-sources
 zmisgod/iptvchecker
+wbsu2003/yulegeyu
