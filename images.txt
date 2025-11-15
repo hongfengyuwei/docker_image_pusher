@@ -26,7 +26,7 @@ iyuucn/iyuuplus-dev
 nyanmisaka/jellyfin
 jellyfin/jellyfin
 xiaoyaliu/alist
-jellyfin/jellyfin:2025081805
+jellyfin/jellyfin:2025111005
 herberthe0229/iptv-sources
 zmisgod/iptvchecker
 wbsu2003/yulegeyu
